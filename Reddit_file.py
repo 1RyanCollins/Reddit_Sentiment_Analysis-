@@ -5,11 +5,11 @@ import pandas as pd
 import datetime as dt
 from textblob import TextBlob
 
-reddit = praw.Reddit(client_id='0STBJJrrTH53SA', 
-                     client_secret='7ttL7PpTdf6CrjfFiJJz4xJdQlg', 
-                     user_agent='Social_Media_Mining_Project', 
-                     username='NicCage4life', 
-                     password='Texasfans131')
+reddit = praw.Reddit(client_id= 
+                     client_secret=
+                     user_agent=
+                     username=
+                     password=
 
 
 submission = reddit.submission(url="https://www.reddit.com/r/aww/comments/dvbb7b/my_grandpa_96_and_my_grandma_94_celebrating_their/")
